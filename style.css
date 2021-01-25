@@ -1,4 +1,22 @@
-.social-media-icon {
-  width: 16px;
-  height: 16px;
+footer a {
+  color: rgb(102, 102, 102);
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.header-top {
+  background-color: #f72210;
+}
+
+.yellow {
+  background-color: #ffe400;
+}
+
+button,
+nav {
+  font: 700 19px "Roboto Condensed", sans-serif;
+}
+
+.bottom-nav {
+  font-size: 16px;
 }

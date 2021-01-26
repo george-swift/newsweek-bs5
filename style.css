@@ -30,3 +30,7 @@ label {
   font-size: 14px;
   line-height: 15px;
 }
+
+h2 {
+  font: 700 16px/16px "Roboto Condensed", sans-serif;;
+}

@@ -37,11 +37,15 @@ label {
 
 h2,
 .description {
-  font: 700 16px/16px "Roboto Condensed", sans-serif;
+  font: 700 16px/16px Arial, sans-serif;
 }
 
 h3 {
-  font: 24px/24px "Roboto Condensed", sans-serif;
+  font: 24px/24px Arial, sans-serif;
+}
+
+h4 {
+  font: 900 17px/20px Arial, sans-serif;
 }
 
 .main-images {

@@ -63,3 +63,7 @@ h4 {
 .culture-and-travel {
   font: 700 13px/20px "Roboto Condensed", sans-serif;
 }
+
+.smaller {
+  font: 14px/21px "Roboto Condensed", sans-serif;
+}

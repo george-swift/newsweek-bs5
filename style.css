@@ -16,6 +16,10 @@ a {
   background-color: #ffe400;
 }
 
+.bg-cyan {
+  background-color: #c2d4d7;
+}
+
 button {
   font: 18px/30px "Roboto Condensed", sans-serif;
 }
@@ -54,4 +58,8 @@ h4 {
 
 .summary {
   font: 500 15px/20px Arial, Helvetica, sans-serif;
+}
+
+.culture-and-travel {
+  font: 700 13px/20px "Roboto Condensed", sans-serif;
 }

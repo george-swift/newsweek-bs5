@@ -4,6 +4,10 @@
   }
 }
 
+a {
+  text-decoration: none;
+}
+
 .bg-red {
   background-color: #f72210;
 }
@@ -31,7 +35,8 @@ label {
   line-height: 15px;
 }
 
-h2 {
+h2,
+.description {
   font: 700 16px/16px "Roboto Condensed", sans-serif;
 }
 
@@ -39,7 +44,7 @@ h3 {
   font: 24px/24px "Roboto Condensed", sans-serif;
 }
 
-.large-img {
+.main-images {
   width: 100%;
 }
 

@@ -32,5 +32,17 @@ label {
 }
 
 h2 {
-  font: 700 16px/16px "Roboto Condensed", sans-serif;;
+  font: 700 16px/16px "Roboto Condensed", sans-serif;
+}
+
+h3 {
+  font: 24px/24px "Roboto Condensed", sans-serif;
+}
+
+.large-img {
+  width: 100%;
+}
+
+.summary {
+  font: 500 15px/20px Arial, Helvetica, sans-serif;
 }

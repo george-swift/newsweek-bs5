@@ -12,6 +12,10 @@ a {
   background-color: #f72210;
 }
 
+.text-red {
+  color: #f72210;
+}
+
 .bg-yellow {
   background-color: #ffe400;
 }
@@ -74,7 +78,6 @@ h4 {
 }
 
 .icon {
-
   background-image: url("https://web.archive.org/web/20210120133244im_/https://g.newsweek.com/themes/newsweek/favicons/favicon-32x32.png");
   background-position: 50% 50%;
   background-repeat: no-repeat;

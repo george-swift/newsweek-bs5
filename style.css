@@ -8,6 +8,10 @@ a {
   text-decoration: none;
 }
 
+input {
+  font: 14px/35px "Helvetica", sans-serif;
+}
+
 .bg-red {
   background-color: #f72210;
 }
@@ -73,7 +77,8 @@ h4 {
   font: 14px/21px "Roboto Condensed", sans-serif;
 }
 
-.bottom-link-img {
+.bottom-link-img,
+.subs-btn {
   font: 700 18px/18px "Roboto Condensed", sans-serif;
 }
 

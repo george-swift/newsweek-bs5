@@ -24,7 +24,8 @@ button {
   font: 18px/30px "Roboto Condensed", sans-serif;
 }
 
-.top-nav {
+.top-nav,
+.magazine {
   font: 600 19px/24px "Roboto Condensed", sans-serif;
 }
 
@@ -66,4 +67,18 @@ h4 {
 
 .smaller {
   font: 14px/21px "Roboto Condensed", sans-serif;
+}
+
+.bottom-link-img {
+  font: 700 18px/18px "Roboto Condensed", sans-serif;
+}
+
+.icon {
+
+  background-image: url("https://web.archive.org/web/20210120133244im_/https://g.newsweek.com/themes/newsweek/favicons/favicon-32x32.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 29px;
+  height: 28px;
 }

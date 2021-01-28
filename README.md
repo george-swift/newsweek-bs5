@@ -4,6 +4,8 @@
 
 > This project consists of cloning [this web site](https://web.archive.org/web/20210120125445/https://www.newsweek.com/) using mostly bootstrap classes.
 
+![screenshot](./img/Newsweek.png)
+
 ## Built With
 
 - Bootstrap
@@ -12,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://george-swift.github.io/project-three-using-bootstrap/)
 
 
 ## Authors

@@ -1,0 +1,88 @@
+@media (min-width: 1320px) {
+  .container-fluid {
+    width: 1310px;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
+input {
+  font: 14px/35px "Helvetica", sans-serif;
+}
+
+.bg-red {
+  background-color: #f72210;
+}
+
+.text-red {
+  color: #f72210;
+}
+
+.bg-yellow {
+  background-color: #ffe400;
+}
+
+.bg-cyan {
+  background-color: #c2d4d7;
+}
+
+button {
+  font: 18px/30px "Roboto Condensed", sans-serif;
+}
+
+.top-nav,
+.magazine {
+  font: 600 19px/24px "Roboto Condensed", sans-serif;
+}
+
+.bottom-nav {
+  font: 600 16px/16px "Roboto Condensed", sans-serif;
+  color: #807f84;
+}
+
+.footer-link,
+label {
+  font-size: 14px;
+  line-height: 15px;
+}
+
+h2,
+.description {
+  font: 700 16px/16px "Roboto Condensed", sans-serif;
+}
+
+h3 {
+  font: 24px/24px "Roboto Condensed", sans-serif;
+}
+
+h4 {
+  font: 700 17px/20px "Roboto Condensed", sans-serif;
+}
+
+.summary {
+  font: 500 15px/20px Arial, Helvetica, sans-serif;
+}
+
+.culture-and-travel {
+  font: 700 13px/20px "Roboto Condensed", sans-serif;
+}
+
+.smaller {
+  font: 14px/21px "Roboto Condensed", sans-serif;
+}
+
+.bottom-link-img,
+.subs-form {
+  font: 700 18px/18px "Roboto Condensed", sans-serif;
+}
+
+.icon {
+  background-image: url("https://web.archive.org/web/20210120133244im_/https://g.newsweek.com/themes/newsweek/favicons/favicon-32x32.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 29px;
+  height: 28px;
+}
